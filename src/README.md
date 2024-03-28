@@ -40,8 +40,7 @@ projects:
 
 footer: customize your footer text
 ---
-
-你好, 这是我的博客.
+哈哈哈哈哈啊哈哈.
 
 To use this layout, you should set both `layout: BlogHome` and `home: true` in the page front matter.
 
